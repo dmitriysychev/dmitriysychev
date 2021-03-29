@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Dmitriy Sychev, and I am UT Austin Computer Science Graduate of 2020
  - 📫 How to reach me: dmitriy.sychev at utexas.edu
- - 🔭 I’m currently working on a personal website hosted on GitHub pages using Jekyll
+ - 🔭 I’m currently working on a [personal website](https://dmitriysychev.github.io/) hosted on GitHub pages using Jekyll
 <!--
 **dmitriysychev/dmitriysychev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

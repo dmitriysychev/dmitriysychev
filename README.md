@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Dmitriy Sychev, and I am UT Austin Computer Science Graduate of 2020
  - 📫 How to reach me: dmitriy.sychev at utexas.edu
- - 🔭 I’m currently working on an app using TypeScript, GraphQL, React, ApolloServer
+ - 🔭 I’m currently working on a forum app using TypeScript, GraphQL, React, ApolloServer
  - ⚡ Contributing to a bigger project by building a pipeline on Heroku
 <!--
 **dmitriysychev/dmitriysychev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

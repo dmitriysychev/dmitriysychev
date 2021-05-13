@@ -3,6 +3,7 @@
  - 📫 How to reach me: dmitriy.sychev at utexas.edu
  - 🔭 I’m currently working on a forum app using TypeScript, GraphQL, React, ApolloServer
  - ⚡ Working on cryptocurrency exchange project using Solidity and web3 framework
+ - Working on a major platform using Node, React, Redis, MongoDB, NGINX
 <!--
 **dmitriysychev/dmitriysychev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

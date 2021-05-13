@@ -2,7 +2,7 @@
 ### My name is Dmitriy Sychev, and I am UT Austin Computer Science Graduate of 2020
  - 📫 How to reach me: dmitriy.sychev at utexas.edu
  - 🔭 I’m currently working on a forum app using TypeScript, GraphQL, React, ApolloServer
- - ⚡ Working on cryptocurrency exchange project
+ - ⚡ Working on cryptocurrency exchange project using Solidity and web3 framework
 <!--
 **dmitriysychev/dmitriysychev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

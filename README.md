@@ -4,7 +4,7 @@
 ### What I am working on:
  - 🔭 I’m currently working on a forum app using TypeScript, GraphQL, React, ApolloServer
  - ⚡ Working on cryptocurrency exchange project using Solidity and web3 framework
- - 💬 Working on a major platform using Node, React, Redis, MongoDB, NGINX
+ - 💬 Working on a major commercial platform using Node, React, Redis, MongoDB, NGINX
 ### Ask me about my projects!
 <!--
 **dmitriysychev/dmitriysychev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

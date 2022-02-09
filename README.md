@@ -4,8 +4,6 @@
 ### What I am working on:
  - 🔭 I’m currently working on ETH blockhain project
  - ⚡ Avid NFT enthusiast
- - 💬 Working on a major commercial platform using Node, React, MongoDB and related frameworks: Redis, Next.js, Nest.js, ChakraUI
-### Ask me about my projects!
 <!--
 **dmitriysychev/dmitriysychev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
